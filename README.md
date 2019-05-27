@@ -8,4 +8,8 @@ This is a portfolio containing all my details qualifications skills and certific
 * atom
 ## technology used 
 html, css.
-
+contributor
+i contributed to the whole projectand using some tutorial
+## Support and contact
+if you need any assist in making 
+LICENSE
