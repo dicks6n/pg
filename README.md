@@ -13,5 +13,5 @@ i contributed to the whole projectand using some tutorial
 ## Support and contact
 if you need any assist in making a web page you cann contact me using:dikkymccria@gmail.com
                                                                      :+254707736866
-LICENSE
-MIT
+## LICENSE
+## MIT
